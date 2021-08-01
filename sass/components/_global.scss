@@ -1,0 +1,17 @@
+*,*::before,*::after{
+    box-sizing: border-box;
+}
+.container{
+    width: 90%;
+    max-width: 90%;
+    padding: 0 1rem;
+    margin: 0 auto;
+}
+section{
+    padding: 24px;
+}
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
